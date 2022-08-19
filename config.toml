@@ -1,4 +1,4 @@
-baseURL = "http://www.datumbucle.com/"
+baseURL = "https://dennysreg.github.io"
 languageCode = "en"
 defaultContentLanguage = "en"                             # en / zh-cn / ... (This field determines which i18n file to use)
 title = "Data Pipeline Recipes"
@@ -233,7 +233,7 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
 
 [[deployment.targets]]
 # An arbitrary name for this target.
-name = "mydeployment"
+# name = "mydeployment"
 # The Go Cloud Development Kit URL to deploy to. Examples:
 # GCS; see https://gocloud.dev/howto/blob/#gcs
-URL = "gs://www.datumbucle.com"
+# URL = "gs://www.datumbucle.com"
