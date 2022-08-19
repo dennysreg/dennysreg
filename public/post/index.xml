@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Data Pipeline Recipes</title>
+    <link>http://www.datumbucle.com/post/</link>
+    <description>Recent content in Posts on Data Pipeline Recipes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 03 Feb 2021 06:07:27 -0600</lastBuildDate><atom:link href="http://www.datumbucle.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Making Airlflow talks with MS SQL Server</title>
+      <link>http://www.datumbucle.com/post/mssqloperator/</link>
+      <pubDate>Wed, 03 Feb 2021 06:07:27 -0600</pubDate>
+      
+      <guid>http://www.datumbucle.com/post/mssqloperator/</guid>
+      <description>MS SQL Server Operator on Airflow Introduction Now days multicloud idea is becoming more common than ever so it&amp;rsquo;s not weird to wondering how to use Airflow to connect MS SQL Server relational database.
+Of course, you can use GKEPodOperator and setup a docker image to support this operation but guess what? There is an straighforward way to do it using MsSqlOperator operator and I will try to show you how-to.</description>
+    </item>
+    
+  </channel>
+</rss>
